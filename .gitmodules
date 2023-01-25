@@ -1,0 +1,3 @@
+[submodule "Digital-Design"]
+	path = Digital-Design
+	url = https://github.com/zacharygraber/Digital-Design.git
