@@ -1,3 +1,21 @@
 [submodule "Digital-Design"]
 	path = Digital-Design
 	url = https://github.com/zacharygraber/Digital-Design.git
+[submodule "Operating-Systems"]
+	path = Operating-Systems
+	url = https://github.com/zacharygraber/xinu-OS.git
+[submodule "Computer-Structures"]
+	path = Computer-Structures
+	url = https://github.com/zacharygraber/Computer-Structures.git
+[submodule "Intro-to-C"]
+	path = Intro-to-C
+	url = https://github.com/zacharygraber/Intro-to-C.git
+[submodule "Intro-to-Python"]
+	path = Intro-to-Python
+	url = https://github.com/zacharygraber/Intro-to-Python.git
+[submodule "Data-Structures-and-Algorithms"]
+	path = Data-Structures-and-Algorithms
+	url = https://github.com/zacharygraber/Data-Structures-and-Algorithms.git
+[submodule "Computer-Graphics"]
+	path = Computer-Graphics
+	url = https://github.com/zacharygraber/Computer-Graphics.git
